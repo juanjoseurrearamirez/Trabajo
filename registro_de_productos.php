@@ -4,9 +4,9 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title></title>
-  <link rel="stylesheet" type="text/css" href="bp-local/css/bootstrap.min.css">
+  <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 </head>
-<body style="background-image: url(bp-local/img/8.jpg); background-repeat: no-repeat; background-size: cover;">
+<body style="background-image: url(l8.jpg); background-repeat: no-repeat; background-size: cover;">
    <nav class="navbar navbar-expand-lg bg-success">
   <div class="container-fluid">
     <a class="navbar-brand" href="#"></a>
@@ -153,8 +153,8 @@
 </div>
 
 
-<script src="/bp-local/js/bootstrap.bundle.min.js"></script>
+<script src="bootstrap.bundle.min.js"></script>
 
-  <script src="bp-local/js/bootstrap.bundle.min.js"></script>
+  <script src="bootstrap.bundle.min.js"></script>
 </body>
 </html>
