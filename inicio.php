@@ -6,7 +6,7 @@
 	  <link rel="stylesheet" type="text/css" href="bp-local/css/bootstrap.min.css">
 	<title>Registro de Productos</title>
 </head>
-<body style="background-image: url(bp-local/img/2.jpg); background-repeat: no-repeat; background-size: cover; backdrop-filter: blur(7px);">
+<body style="background-image: url(2.jpg); background-repeat: no-repeat; background-size: cover; backdrop-filter: blur(7px);">
 
 <nav class="navbar navbar-expand-lg bg-white">
   <div class="container-fluid">
@@ -49,19 +49,19 @@
   </div>
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="bp-local/img/1.jpg" style="height: 800px;" class="d-block w-100" alt="...">
+      <img src="1.jpg" style="height: 800px;" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Importancia de los productos</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="bp-local/img/12.jpg" height="800" width="100" class="d-block w-100" alt="...">
+      <img src="12.jpg" height="800" width="100" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Beneficios de los productos</h5>
       </div>
     </div>
     <div class="carousel-item">
-      <img src="bp-local/img/5.jpg"  height="800" width="100" class="d-block w-100" alt="...">
+      <img src="5.jpg"  height="800" width="100" class="d-block w-100" alt="...">
       <div class="carousel-caption d-none d-md-block">
         <h5>Productos</h5>
       </div>
@@ -80,14 +80,14 @@
 <br><br><br>
 <br><br><br>
 <center><div class="im">
-  <img src="bp-local/img/10.webp">
+  <img src="10.webp">
 </div></center>
 <center><h3 class="text-white">Ofertas</h3></center>
 <br><br><br><br>
 <center><div class="ig">
-  <img src="bp-local/img/5.jpg">
+  <img src="img/5.jpg">
 </div></center>
 <center><h3 class="text-white">Productos</h3></center>
-  <script src="bp-local/js/bootstrap.bundle.min.js"></script>
+  <script src="bootstrap.bundle.min.js"></script>
 </body>
 </html>
