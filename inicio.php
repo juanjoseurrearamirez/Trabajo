@@ -3,7 +3,7 @@
 <head>
 	<meta charset="utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	  <link rel="stylesheet" type="text/css" href="bp-local/css/bootstrap.min.css">
+	  <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
 	<title>Registro de Productos</title>
 </head>
 <body style="background-image: url(2.jpg); background-repeat: no-repeat; background-size: cover; backdrop-filter: blur(7px);">
