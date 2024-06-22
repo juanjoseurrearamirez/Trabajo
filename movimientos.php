@@ -3,11 +3,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="bp-local/css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/estilos.css">
+    <link rel="stylesheet" type="text/css" href="bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="estilos.css">
     <title>Registro de Movimiento</title>
 </head>
-<body style="background-image: url(bp-local/img/8.jpg); background-repeat: no-repeat; background-size: cover;">
+<body style="background-image: url(img/8.jpg); background-repeat: no-repeat; background-size: cover;">
         <nav class="navbar navbar-expand-lg bg-primary">
   <div class="container-fluid">
     <a class="navbar-brand" href="#"></a>
@@ -116,8 +116,8 @@
 
         }
     ?>
-    <script src="js/bootstrap.bundle.min.js"></script>
-  <script src="bp-local/js/bootstrap.bundle.min.js"></script>
+    <script src="bootstrap.bundle.min.js"></script>
+  <script src="bootstrap.bundle.min.js"></script>
  </table>
     </div>
 </body>
