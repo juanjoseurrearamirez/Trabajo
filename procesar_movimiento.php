@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="bp-local/css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="bootstrap.min.css">
     <title>....</title>
 </head>
 <body>
@@ -68,5 +68,5 @@ $stmt->close();
 $conexion->close();
 
 ?>
-  <script src="bp-local/js/bootstrap.bundle.min.js"></script>
+  <script src="bootstrap.bundle.min.js"></script>
 </center>
